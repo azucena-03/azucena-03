@@ -2,7 +2,7 @@
 ### Hola, Soy Azucena! 👋
 <table>
   <tr>
-    <td width=800>
+    <td width=700>
       <p>
         👩‍💻 Iniciando mi camino en el Desarrollo Frontend<br/>
         🎓 Cursando 6° ciclo en Computación e Informática<br/>
