@@ -5,7 +5,7 @@
     <td width=700>
       <p>
         👩‍💻 Iniciando mi camino en el Desarrollo Frontend<br/>
-        🎓 Cursando 6° ciclo en Computación e Informática<br/>
+        🎓 Egresada en Computación e Informática<br/>
         🌟 Interesada en aplicaciones y diseño web
       </p>
     </td>
